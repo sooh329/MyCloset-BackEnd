@@ -1,0 +1,34 @@
+-id idjfolsfsof
+user esiofs
+wishlist{
+    {
+        productid: dkfjsfjlsflkl
+        name: "인기상품"
+        "active" : true // false
+    }
+
+    {
+        productid: dkfjsfjlsflkl
+        name: "여름 옷"
+        "active" : true // false
+    }
+
+    {
+        productid: dkfjsfjlsflkl
+        name: "겨울 옷 "
+        "active" : false // false
+    }
+}
+
+afdsdafwaewsavfawsfccwsfawsfwsafffffffffffwswssvwsdvawwwavwvwwwwwwwwwwwvwdwvdwvw
+
+-id idjfolsfsof
+user esiofs
+wishlist{
+        productid: dkfjsfjlsflkl
+   
+        productid: dkfjsfjlsflkl
+
+        productid: dkfjsfjlsflkl
+ 
+}
